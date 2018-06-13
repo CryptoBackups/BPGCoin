@@ -1,0 +1,6 @@
+usr/local/bin/bpgcoin-qt usr/bin
+share/pixmaps/bpgcoin32.xpm usr/share/pixmaps
+share/pixmaps/bpgcoin16.xpm usr/share/pixmaps
+share/pixmaps/bpgcoin128.png usr/share/pixmaps
+debian/bpgcoin-qt.desktop usr/share/applications
+debian/bpgcoin-qt.protocol usr/share/kde4/services/

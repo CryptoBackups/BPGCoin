@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bpgcoin_bg.qm</file>
+        <file alias="de">locale/bpgcoin_de.qm</file>
+        <file alias="en">locale/bpgcoin_en.qm</file>
+        <file alias="es">locale/bpgcoin_es.qm</file>
+        <file alias="fi">locale/bpgcoin_fi.qm</file>
+        <file alias="fr">locale/bpgcoin_fr.qm</file>
+        <file alias="it">locale/bpgcoin_it.qm</file>
+        <file alias="ja">locale/bpgcoin_ja.qm</file>
+        <file alias="pl">locale/bpgcoin_pl.qm</file>
+        <file alias="pt">locale/bpgcoin_pt.qm</file>
+        <file alias="ru">locale/bpgcoin_ru.qm</file>
+        <file alias="sk">locale/bpgcoin_sk.qm</file>
+        <file alias="sv">locale/bpgcoin_sv.qm</file>
+        <file alias="vi">locale/bpgcoin_vi.qm</file>
+        <file alias="zh_CN">locale/bpgcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bpgcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

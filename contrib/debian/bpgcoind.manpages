@@ -1,0 +1,3 @@
+debian/manpages/bpgcoind.1
+debian/manpages/bpgcoin.conf.5
+debian/manpages/bpgcoin-cli.1

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BPGCoin
+Comment=BPGCoin P2P Cryptocurrency
+Comment[fr]=BPGCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BPGCoin, eşten eşe kriptografik sanal para birimi
+Exec=bpgcoin-qt %u
+Terminal=false
+Type=Application
+Icon=bpgcoin128
+MimeType=x-scheme-handler/bpgcoin;
+Categories=Office;Finance;

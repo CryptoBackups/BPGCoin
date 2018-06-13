@@ -1,0 +1,2 @@
+usr/local/bin/bpgcoind usr/bin
+usr/local/bin/bpgcoin-cli usr/bin
