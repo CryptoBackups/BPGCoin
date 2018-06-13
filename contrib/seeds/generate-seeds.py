@@ -11,7 +11,7 @@ argument:
     nodes_main.txt
     nodes_test.txt
 
-These files must consist of lines in the format 
+These files must consist of lines in the format
 
     <ip>
     <ip>:<port>
@@ -127,12 +127,11 @@ def main():
     g.write(' * IPv4 as well as onion addresses are wrapped inside a IPv6 address accordingly.\n')
     g.write(' */\n')
     with open(os.path.join(indir,'nodes_main.txt'),'r') as f:
-        process_nodes(g, f, 'pnSeed6_main', 9992)
+        process_nodes(g, f, 'pnSeed6_main', 19551)
     g.write('\n')
     with open(os.path.join(indir,'nodes_test.txt'),'r') as f:
-        process_nodes(g, f, 'pnSeed6_test', 19551)
+        process_nodes(g, f, 'pnSeed6_test', 18551)
     g.write('#endif // BPGCOIN_CHAINPARAMSSEEDS_H\n')
-            
+
 if __name__ == '__main__':
     main()
-
